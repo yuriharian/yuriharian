@@ -20,19 +20,20 @@ Sou apaixonado por tecnologia desde a infância, com um grande interesse em vide
 
 Eu sempre tive uma curiosidade enorme por tecnologia, especialmente por videogames, e isso me levou a mergulhar no universo da programação. Hoje, sou estudante de ADS e estou focado no desenvolvimento front-end, enquanto aprendo um pouco de back-end para expandir meus conhecimentos.
 
-Estou me aprofundando no front-end com o objetivo de me tornar um desenvolvedor full stack completo, capaz de criar soluções de ponta a ponta. Além disso, planejo explorar áreas como desenvolvimento de apps móveis e aprimorar minhas habilidades em arquitetura de software.
+Estou me aprofundando no front-end com o objetivo de me tornar um desenvolvedor full stack completo, capaz de criar soluções de ponta a ponta. Além disso, planejo explorar áreas como desenvolvimento de apps mobile e aprimorar minhas habilidades em arquitetura de software.
 
 #
 
 ### Tecnologias:
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
-  <img alt="Yuri-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Yuri-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Yuri-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Yuri-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Yuri-Tailwind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Yuri-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Yuri-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="Yuri-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="Yuri-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="Yuri-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Yuri-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />          
+  <img alt="Yuri-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Yuri-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 #
@@ -40,9 +41,9 @@ Estou me aprofundando no front-end com o objetivo de me tornar um desenvolvedor 
 ### O que estou aprendendo:
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
-  <img alt="Yuri-TS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Yuri-Next" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img alt="Yuri-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img alt="Yuri-TS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img alt="Yuri-Dart" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img alt="Yuri-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 #
