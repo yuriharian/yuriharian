@@ -1,55 +1,63 @@
-# Olá! 👋 Eu sou o Yuri Harian
+<h1 align="center">Olá, eu sou o Yuri 👋</h1>
 
-Sou apaixonado por tecnologia desde a infância, com um grande interesse em videogames. Aos 20 anos, decidi me aprofundar no mundo da programação e, atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou focado principalmente em front-end, mas também explorando back-end.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Foco+em+IA%2C+LLMs+e+Automa%C3%A7%C3%A3o;React+%7C+Next.js+%7C+Python+%7C+NestJS" alt="Typing SVG" />
+</p>
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/yuri-harian/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15px;" />
-  </a>
-  <a href="https://yuri-harian.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" style="margin-right: 15px;" />
-  </a>
-  <a href="mailto:yuri_harian@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://yuriharian.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yuri-harian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yuri_harian@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-#
+---
 
-### Sobre mim
+### 🚀 Sobre mim
 
-Eu sempre tive uma curiosidade enorme por tecnologia, especialmente por videogames, e isso me levou a mergulhar no universo da programação. Hoje, sou estudante de ADS e estou focado no desenvolvimento front-end, enquanto aprendo um pouco de back-end para expandir meus conhecimentos.
+Formado em Análise e Desenvolvimento de Sistemas, sou Desenvolvedor Full-Stack com foco atual em **Inteligência Artificial, LLMs, automação e Python**. Uno uma base sólida em React, Next.js, NestJS e bancos de dados ao desenvolvimento de produtos inteligentes e escaláveis.
 
-Estou me aprofundando no front-end com o objetivo de me tornar um desenvolvedor full stack completo, capaz de criar soluções de ponta a ponta. Além disso, planejo explorar áreas como desenvolvimento de apps mobile e aprimorar minhas habilidades em arquitetura de software.
+- 🔭 Trabalhando atualmente em ferramentas de automação e IA para operações internas
+- 🌱 Aprofundando estudos em LLMs, LangChain/LangGraph, Banco de Dados (MySQL/MongoDB) e Docker
+- 💬 Pergunte-me sobre React, Next.js, Python, automação com Google Apps Script ou n8n
+- 📫 Contato: yuri_harian@outlook.com
 
-#
+---
 
-### Tecnologias:
+### 🛠️ Tecnologias
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
-  <img alt="Yuri-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="Yuri-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="Yuri-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img alt="Yuri-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="Yuri-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />          
-  <img alt="Yuri-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Yuri-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,python,ts,tailwind,mongodb,mysql,git,gcp,docker" />
+</p>
 
-#
+---
 
-### O que estou aprendendo:
+### 📌 Projetos em destaque
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
-  <img alt="Yuri-TS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img alt="Yuri-Dart" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-  <img alt="Yuri-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</div>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🔗 [Portfolio Website](https://github.com/yuriharian/portfolio-yuri) | Portfólio pessoal com foco em performance e apresentação de projetos | React, Tailwind, Framer Motion, Vite |
+| 🔗 [MoovieMood](https://github.com/yuriharian/moviemood) | Sistema full-stack de avaliação e filtragem de filmes | Next.js, NestJS, MongoDB |
+| 🔗 [EZ QR Code](https://github.com/yuriharian/ez_qrcode) | App desktop para geração e leitura de QR Codes | Python, Tkinter, Pyzbar |
+| 🔗 [Sushi Shop](https://github.com/yuriharian/sushi-shop) | Landing page para prática de front-end | HTML, CSS, JavaScript |
+| 🔗 [Snake Game](https://github.com/yuriharian/snake-game) | Jogo clássico em JavaScript puro | HTML, CSS, JavaScript |
 
-#
+> Também desenvolvo ferramentas internas de automação e BI para a Iron Mountain (controle de produção/faturamento, dashboards operacionais, painéis em tempo real), repositórios privados, descritos no [meu portfólio](https://yuriharian.vercel.app/).
 
-### Hobbies e Interesses:
+---
 
-- 🎮 Videogames
-- 🎵 Música
-- 👺 Animes
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yuriharian&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriharian&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriharian&theme=dark&hide_border=true" />
+</p>
+
+---
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/yuriharian/yuriharian/snake-output/snake.svg" alt="Snake animation" />
