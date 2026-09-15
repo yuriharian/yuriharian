@@ -48,16 +48,28 @@ Formado em Análise e Desenvolvimento de Sistemas, sou Desenvolvedor Full-Stack 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yuriharian&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriharian&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriharian&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriharian&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yuriharian&langs_count=4&theme=dark&hide_border=true" height="180" />
 </p>
 
 ---
 
-<br clear="both">
+### 🐍 Minhas contribuições
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/yuriharian/yuriharian/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yuriharian/yuriharian/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yuriharian/yuriharian/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/yuriharian/yuriharian/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
